@@ -1,3 +1,0 @@
-car = "herl"
-
-print(car)
