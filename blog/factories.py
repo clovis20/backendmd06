@@ -1,3 +1,4 @@
+#import blog.factories as factories
 import factory
 from faker import Factory as FakerFactory
 
